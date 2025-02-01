@@ -1,0 +1,4 @@
+--skip-test
+--database=postgresql
+--skip-git
+--skip-docker
